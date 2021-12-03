@@ -5,6 +5,7 @@ class:
   - lead
   - invert
 paginate: true
+const { html, css, comments } = marpit.render('# Hello, Marpit!')
 ---
 ## Docker for pocker!
 ![bg](img/docker-macos-installation-kubernetes-png-favpng-tT8LiM8QzCW8knzBfPvVDF4af.png)
@@ -47,7 +48,7 @@ Feks, kan du utvikle en container på laptopen din og flytte den til en server o
 
 ---
 ##
-
+<!-- backgroundColor: black -->
 ![bg auto](img/GitHub-Mark-Light-120px-plus-link.png)
 
 ![bg auto left:100%](img/Twitter-Mark-Light-120px-plus-link.png)
